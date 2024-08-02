@@ -1,3 +1,10 @@
+[![MasterHead](https://www.veracode.com/sites/default/files/2021-02/hackergames-hero-main.jpg)](https://codegrills.in)
+
+
+
+
+
+
 ## About Me
 - 👀 I am passionate about leveraging Red Hat Linux and AWS cloud technologies to create efficient and secure infrastructure solutions. 
 - 🌱 I hold a Red Hat certification and am eager to further my knowledge in cloud-native technologies.
