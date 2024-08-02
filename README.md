@@ -76,8 +76,8 @@
         <img src="https://skillicons.dev/icons?i=nginx" width="80">
     </td>
     <!-- KUBERNETES -->
-    <td align='center'>
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="80">
+     <td align='center'>
+       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
     </td>
     <!-- TOMCAT -->
     <td align='center'>
