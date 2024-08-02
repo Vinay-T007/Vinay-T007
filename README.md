@@ -28,9 +28,9 @@
     <td align='center'>
         <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80">
     </td>
-    <!-- REDHAT (New Image) -->
+     <!-- REDHAT -->
     <td align='center'>
-        <img src="URL_TO_YOUR_NEW_IMAGE" width="80">
+        <img src="https://img.icons8.com/color/96/000000/red-hat.png"/>
     </td>
     <!-- LINUX -->
     <td align='center'>
