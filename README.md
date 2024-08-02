@@ -70,7 +70,7 @@
     </td>
     <!-- TOMCAT -->
     <td align='center'>
-        <img src="https://skillicons.dev/icons?i=tomcat" width="80">
+        src="https://img.icons8.com/color/96/000000/tomcat.png"/>
     </td>
     <!-- KUBERNETES -->
     <td align='center'>
