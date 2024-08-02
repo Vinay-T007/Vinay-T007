@@ -29,7 +29,7 @@
 <tr>
     <!-- REDHAT -->
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Red_Hat_logo.svg/1024px-Red_Hat_logo.svg.png" width="85" >
+        <img src="https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fgif%2F1lkkrb&psig=AOvVaw0HE9Ok-Z5cpoK-0W45wuzs&ust=1722686957149000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODftpKj1ocDFQAAAAAdAAAAABAK>
     </td>
     <!-- LINUX -->
     <td align='center'>
