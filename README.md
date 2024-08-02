@@ -29,7 +29,7 @@
 <tr>
     <!-- REDHAT -->
     <td align='center'>
-        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/redhat-tux.gif" width="85" >
+        <img src="https://media.tenor.com//redhat.gif" width="85" >
     </td>
     <!-- LINUX -->
     <td align='center'>
