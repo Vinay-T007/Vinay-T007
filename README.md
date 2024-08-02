@@ -74,7 +74,6 @@
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/ubuntu.png" width="80">
     </td>
-<tr>
     <!-- CENTOS -->
     <td align='center'>
         <img src="https://img.icons8.com/ios-filled/50/000000/centos.png" width="80">
