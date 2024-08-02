@@ -20,6 +20,79 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I thrive on learning new technologies and automating tasks for enhanced productivity.
 
+
+## TECHSTACK
+## 🛠 &nbsp; Tech Stack
+
+<table>
+<tr>
+    <!-- LINUX -->
+    <td align='center'>
+        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="85" >
+    </td>
+    <!-- WINDOWS -->
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="85" >
+    </td>
+    <!-- AWS -->
+    <td align='center'>
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" >
+    </td>
+    <!-- GRAFANA -->
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="80">
+    </td>
+</tr>
+<tr>
+    <!-- TERRAFORM -->
+    <td align='center'>
+        <a href="https://softwarelife.github.io/devops/terraform/">
+            <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="90">
+        </a>
+    </td>
+    <!-- ANSIBLE -->
+    <td align='center'>
+        <a href="https://softwarelife.github.io/devops/ansible/">
+            <img src="https://skillicons.dev/icons?i=ansible" width="80">
+        </a>
+    </td>
+    <!-- DOCKER -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=docker" width="80">
+    </td>
+    <!-- KUBERNETES -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="80">
+    </td>
+    <!-- TOMCAT -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=tomcat" width="80">
+    </td>
+    <!-- NGNIX -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=nginx" width="80">
+    </td>
+</tr>
+<tr>
+    <!-- SQL -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=sql" width="80">
+    </td>
+    <!-- GIT -->
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80" >
+    </td>
+    <!-- JENKINS -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=jenkins" width="80">
+    </td>
+    <!-- VSCODE -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=vscode" width="80">
+    </td>
+</tr>
+</table>
+
 # 🛠 Tech Stack
 
 <img src="https://img.icons8.com/color/96/000000/git.gif"/> <img src="https://img.icons8.com/color/96/000000/jenkins.gif"/> <img src="https://img.icons8.com/color/96/000000/ansible.png"/> <img src="https://img.icons8.com/color/96/000000/docker.png"/>
