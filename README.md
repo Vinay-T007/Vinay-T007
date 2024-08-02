@@ -94,10 +94,11 @@
     </td>
     <!-- POSTGRESQL -->
     <td align='center'>
-        <img src="https://img.icons8.com/color/96/000000/postgresql.png" width="80">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="80">
     </td>
 </tr>
 </table>
+
 
 
 
