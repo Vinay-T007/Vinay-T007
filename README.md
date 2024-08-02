@@ -92,8 +92,6 @@
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/fedora.png" width="80">
     </td>
-    <!-- Empty cell for alignment -->
-    <td></td>
 </tr>
 </table>
 
