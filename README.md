@@ -66,10 +66,9 @@
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=nginx" width="80">
     </td>
-    <!-- APACHE -->
-    <td align='center'>
-        <img src="https://img.icons8.com/color/96/000000/apache-web-server.png" width="80">
-    </td>
+   <td align='center'>
+    <img src="https://example.com/apache-web-server.png" width="80">
+</td>
     <!-- UBUNTU -->
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/ubuntu.png" width="80">
