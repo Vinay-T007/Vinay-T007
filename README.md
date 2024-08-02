@@ -23,75 +23,69 @@
 
 ## 🛠 &nbsp; Tech Stack
 
+## 🛠 &nbsp; Tech Stack
 
 <table>
 <tr>
+    <!-- REDHAT -->
     <td align='center'>
-        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="70" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Red_Hat_logo.svg/1024px-Red_Hat_logo.svg.png" width="85" >
     </td>
+    <!-- LINUX -->
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="100" >
+        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="85" >
     </td>
+    <!-- AWS -->
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Vagrant.gif" width="80" >
-    </td>
-    <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/azure.gif" width="90">
-    </td>
-     <td align='center'>
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" >
     </td>
-    <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Google%20Cloud.gif" width="80">
-    <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="80">
-    </td>
-
-<tr>
-    <td align='center'>
-  <a href="https://softwarelife.github.io/devops/terraform/">
-    <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="90">
-  </a>
-</td>
-    <td align='center'>
-        <a href="https://softwarelife.github.io/devops/ansible/">
-        <img src="https://skillicons.dev/icons?i=ansible" width="80">
-        </a>   
-    </td>
-    <td align='center'>
-        <img src="https://skillicons.dev/icons?i=bash" width="80">
-    </td>
-     <td align='center'>
-        <img src="https://skillicons.dev/icons?i=powershell" width="80">
-    </td>
+    <!-- GIT -->
     <td align='center'>
         <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80" >
     </td>
-    <td align='center'>
-        <img src="https://skillicons.dev/icons?i=vim" width="80" >
-    </td>  
-    
 </tr>
 <tr>
+    <!-- ANSIBLE -->
+    <td align='center'>
+        <a href="https://softwarelife.github.io/devops/ansible/">
+            <img src="https://skillicons.dev/icons?i=ansible" width="80">
+        </a>
+    </td>
+    <!-- WINDOWS -->
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="85" >
+    </td>
+    <!-- SQL -->
+    <td align='center'>
+        <img src="https://www.sqlservertutorial.net/wp-content/uploads/2019/01/sql-server-logo.png" width="80">
+    </td>
+    <!-- TERRAFORM -->
+    <td align='center'>
+        <a href="https://softwarelife.github.io/devops/terraform/">
+            <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="90">
+        </a>
+    </td>
+</tr>
+<tr>
+    <!-- JENKINS -->
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=jenkins" width="80">
     </td>
+    <!-- NGNIX -->
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Azure%20Devops.gif" width="80">
+        <img src="https://skillicons.dev/icons?i=nginx" width="80">
     </td>
-    
+    <!-- KUBERNETES -->
     <td align='center'>
-                <a href="https://softwarelife.github.io/devops/docker-setup/">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80">
-                </a>
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="80">
     </td>
+    <!-- TOMCAT -->
     <td align='center'>
-       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
-    <td align='center'>
-        <img src="https://skillicons.dev/icons?i=vscode" width="80">
-           
+        <img src="https://skillicons.dev/icons?i=tomcat" width="80">
+    </td>
 </tr>
 </table>
+
 
 # 🛠 Tech Stack
 
