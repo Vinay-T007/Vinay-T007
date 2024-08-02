@@ -66,12 +66,10 @@
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=nginx" width="80">
     </td>
-   <!-- APACHE -->
+     <!-- APACHE -->
     <td align='center'>
         <img src="https://images.sftcdn.net/images/t_app-icon-m/p/ddc05574-9b32-11e6-8828-00163ec9f5fa/3020973661/apache-http-server-logo.jpg" width="80" alt="Apache Web Server">
     </td>
-</tr>
-    
     <!-- UBUNTU -->
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/ubuntu.png" width="80">
@@ -98,9 +96,24 @@
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="80">
     </td>
-    
 </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![OS](https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Windows-red)
