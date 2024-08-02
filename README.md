@@ -28,12 +28,5 @@
 [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/thallapelly-vinay/)
 
 
-### Github Stats
-  
-<p align="center">
-  <a href="https://github.com/Vinay-T007"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Vinay-T007&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-T007&theme=tokyonight" />
-</p>
-  
+
 
