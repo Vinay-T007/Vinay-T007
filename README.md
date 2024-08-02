@@ -29,7 +29,7 @@
 <tr>
     <!-- REDHAT -->
     <td align='center'>
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fgif%2F1lkkrb&psig=AOvVaw0HE9Ok-Z5cpoK-0W45wuzs&ust=1722686957149000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODftpKj1ocDFQAAAAAdAAAAABAK>
+        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/redhat-tux.gif" width="85" >
     </td>
     <!-- LINUX -->
     <td align='center'>
