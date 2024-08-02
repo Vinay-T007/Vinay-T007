@@ -101,6 +101,11 @@
 </table>
 
 
+![OS](https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Windows-red)
+![Cloud](https://img.shields.io/badge/Cloud%20Platform-AWS-blue)
+![Scripting](https://img.shields.io/badge/Scripting-Shell-lemon)
+![WebServer](https://img.shields.io/badge/Webserver-Apache%20Server-violet)
+![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
 
 
 # Connect with me:
