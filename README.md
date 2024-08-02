@@ -22,12 +22,11 @@
 
 
 ## 🛠 &nbsp; Tech Stack
-
 <table>
 <tr>
     <!-- GIT (Animated) -->
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80" >
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80">
     </td>
     <!-- REDHAT -->
     <td align='center'>
@@ -35,17 +34,17 @@
     </td>
     <!-- LINUX -->
     <td align='center'>
-        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="85" >
+        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="85">
     </td>
     <!-- WINDOWS -->
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="85" >
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="85">
     </td>
 </tr>
 <tr>
     <!-- AWS -->
     <td align='center'>
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" >
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80">
     </td>
     <!-- VIM -->
     <td align='center'>
@@ -85,10 +84,19 @@
     <td align='center'>
         <img src="https://img.icons8.com/ios-filled/50/000000/centos.png" width="80">
     </td>
+    <!-- AMAZON LINUX -->
+    <td align='center'>
+        <img src="https://img.icons8.com/color/96/000000/amazon-linux.png" width="80">
+    </td>
+    <!-- FEDORA -->
+    <td align='center'>
+        <img src="https://img.icons8.com/color/96/000000/fedora.png" width="80">
+    </td>
+    <!-- Empty cell for alignment -->
+    <td></td>
 </tr>
 </table>
 
-## Tech.
 
 
 
