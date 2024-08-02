@@ -33,7 +33,7 @@
         <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="100" >
     </td>
      <td align='center'>
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" >
+        <img src="https://skillicons.dev/icons?i=vscode" width="80">
     </td>
     <td align='center'>
         <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="80">
