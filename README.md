@@ -8,9 +8,9 @@
 
 # 🛠 Tech Stack
 
-https://img.icons8.com/color/96/000000/red-hat.png"/> https://img.icons8.com/color/96/000000/aws.png"/> https://img.icons8.com/color/96/00000/git.png"/>
-https://img.icons8.com/color/96/kubernetes.png"/> https://img.icons8.com/color/96/docker.png"/> https://img.icons8.com/color/sql">
-https://image.flaticon.com/icons/png/si=&ct=1&tx=256&ty=256&fbclid=IwAR3yR7VIsEjE9e6ZQvPfgJpXrrgHtBWiT5PeHq03MMax-lkU_6LmWzGomA/.png"/>
+<img src="https://img.icons8.com/color/96/000000/git.png"/> <img src="https://img.icons8.com/color/96/000000/jenkins.png"/> <img src="https://img.icons8.com/color/96/000000/ansible.png"/> <img src="https://img.icons8.com/color/96/000000/docker.png"/>
+ <img src="https://img.icons8.com/color/96/000000/terraform.png"/> <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/96/000000/tomcat.png"/> <img src="https://img.icons8.com/color/96/000000/nginx.png"/>
+<img src="https://img.icons8.com/color/96/000000/grafana.png"/>
+<img src="https://img.icons8.com/color/96/000000/sql.png"/> <img src="https://img.icons8.com/color/96/000000/linux.png"/> <img src="https://img.icons8.com/color/96/000000/windows-10.png"/>
 
-# Connect with me:
 [![LinkedIn](linkedin-icon)](http-linkedin)
