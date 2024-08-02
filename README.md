@@ -66,9 +66,10 @@
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=nginx" width="80">
     </td>
-     <!-- APACHE -->
+     <!-- APACHE (Animated) -->
     <td align='center'>
-        <img src="https://images.sftcdn.net/images/t_app-icon-m/p/ddc05574-9b32-11e6-8828-00163ec9f5fa/3020973661/apache-http-server-logo.jpg" width="80" alt="Apache Web Server">
+        <img src="https://example.com/path-to-animated-apache.gif" width="80" alt="Apache Web Server">
+    </td>
     </td>
     <!-- UBUNTU -->
     <td align='center'>
