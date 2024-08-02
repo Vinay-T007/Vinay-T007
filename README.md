@@ -32,7 +32,7 @@
     </td>
     <!-- REDHAT -->
     <td align='center'>
-        <img src="https://media.tenor.com//redhat.gif" width="85" >
+        <img src="https://img.icons8.com/color/96/000000/red-hat.png"/>
     </td>
     <!-- LINUX -->
     <td align='center'>
