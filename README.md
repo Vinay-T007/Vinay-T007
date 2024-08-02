@@ -22,7 +22,6 @@
 
 
 ## 🛠 &nbsp; Tech Stack
-## 🛠 &nbsp; Tech Stack
 
 <table>
 <tr>
@@ -79,13 +78,6 @@
 </tr>
 </table>
 
-# 🛠 Tech Stack
-
-<img src="https://img.icons8.com/color/96/000000/git.gif"/> <img src="https://img.icons8.com/color/96/000000/jenkins.gif"/> <img src="https://img.icons8.com/color/96/000000/ansible.png"/> <img src="https://img.icons8.com/color/96/000000/docker.png"/>
- <img src="https://img.icons8.com/color/96/000000/terraform.png"/> <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/96/000000/tomcat.png"/> <img src="https://img.icons8.com/color/96/000000/nginx.png"/>
-<img src="https://img.icons8.com/color/96/000000/grafana.png"/>
-<img src="https://img.icons8.com/color/96/000000/sql.png"/> <img src="https://img.icons8.com/color/96/000000/linux.png"/> <img src="https://img.icons8.com/color/96/000000/windows-10.png"/>
-<img src="https://img.icons8.com/color/96/000000/red-hat.png"/>
 # Connect with me:
 
 [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/thallapelly-vinay/)
