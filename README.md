@@ -101,7 +101,6 @@
 
 
 
-
 # Connect with me:
 
 [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/thallapelly-vinay/)
