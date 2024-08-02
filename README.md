@@ -88,7 +88,65 @@
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="80">
     </td>
-    <!-- SQL SERVER -->
+    <!-- SQL SERVER --><table>
+<tr>
+    <!-- GIT (Animated) -->
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80">
+    </td>
+    <!-- REDHAT -->
+    <td align='center'>
+        <img src="https://community.rsa.com/servlet/rtaImage?eid=ka44u000000oR0z&feoid=00N4u000004LDXp&refid=0EM4u000009Auo9" width="80">
+    </td>
+    <!-- LINUX -->
+    <td align='center'>
+        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="85">
+    </td>
+    <!-- WINDOWS -->
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="85">
+    </td>
+</tr>
+<tr>
+    <!-- AWS -->
+    <td align='center'>
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80">
+    </td>
+    <!-- VIM -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=vim" width="80">
+    </td>
+    <!-- VSCODE -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=vscode" width="80">
+    </td>
+    <!-- ANSIBLE -->
+    <td align='center'>
+        <a href="https://softwarelife.github.io/devops/ansible/">
+            <img src="https://skillicons.dev/icons?i=ansible" width="80">
+        </a>
+    </td>
+</tr>
+<tr>
+    <!-- NGNIX -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=nginx" width="80">
+    </td>
+    <!-- TOMCAT -->
+    <td align='center'>
+        <img src="https://img.icons8.com/color/96/000000/tomcat.png"/>
+    </td>
+    <!-- UBUNTU -->
+    <td align='center'>
+        <img src="https://img.icons8.com/color/96/000000/ubuntu.png" width="80">
+    </td>
+    <!-- CENTOS -->
+    <td align='center'>
+        <img src="https://img.icons8.com/ios-filled/50/000000/centos.png" width="80">
+    </td>
+</tr>
+<
+
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" width="80">
     </td>
