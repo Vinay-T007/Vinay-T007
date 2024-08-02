@@ -22,9 +22,14 @@
 
 
 ## 🛠 &nbsp; Tech Stack
+## 🛠 &nbsp; Tech Stack
 
 <table>
 <tr>
+    <!-- GIT (Animated) -->
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80" >
+    </td>
     <!-- REDHAT -->
     <td align='center'>
         <img src="https://media.tenor.com//redhat.gif" width="85" >
@@ -33,53 +38,43 @@
     <td align='center'>
         <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="85" >
     </td>
+    <!-- WINDOWS -->
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="85" >
+    </td>
+</tr>
+<tr>
     <!-- AWS -->
     <td align='center'>
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" >
     </td>
-    <!-- GIT -->
+    <!-- VIM -->
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80" >
+        <img src="https://skillicons.dev/icons?i=vim" width="80">
     </td>
-</tr>
-<tr>
+    <!-- VSCODE -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=vscode" width="80">
+    </td>
     <!-- ANSIBLE -->
     <td align='center'>
         <a href="https://softwarelife.github.io/devops/ansible/">
             <img src="https://skillicons.dev/icons?i=ansible" width="80">
         </a>
     </td>
-    <!-- WINDOWS -->
-    <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="85" >
-    </td>
-    <!-- SQL -->
-    <td align='center'>
-        <img src="https://www.sqlservertutorial.net/wp-content/uploads/2019/01/sql-server-logo.png" width="80">
-    </td>
-    <!-- TERRAFORM -->
-    <td align='center'>
-        <a href="https://softwarelife.github.io/devops/terraform/">
-            <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="90">
-        </a>
-    </td>
 </tr>
 <tr>
-    <!-- JENKINS -->
-    <td align='center'>
-        <img src="https://skillicons.dev/icons?i=jenkins" width="80">
-    </td>
     <!-- NGNIX -->
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=nginx" width="80">
     </td>
-    <!-- KUBERNETES -->
-     <td align='center'>
-       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
-    </td>
     <!-- TOMCAT -->
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=tomcat" width="80">
+    </td>
+    <!-- KUBERNETES -->
+    <td align='center'>
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
     </td>
 </tr>
 </table>
