@@ -78,10 +78,7 @@
     <td align='center'>
         <img src="https://img.icons8.com/ios-filled/50/000000/centos.png" width="80">
     </td>
-    <!-- MySQL-->
-    <td allign='center'>
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80">
-    </td>
+   
      
 </table>
 
