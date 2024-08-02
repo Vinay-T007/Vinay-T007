@@ -15,6 +15,33 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## About Me
 - 👀 I am passionate about leveraging Red Hat Linux and AWS cloud technologies to create efficient and secure infrastructure solutions. 
 - 🌱 I hold a Red Hat certification and am eager to further my knowledge in cloud-native technologies.
