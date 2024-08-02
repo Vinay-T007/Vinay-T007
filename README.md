@@ -20,7 +20,59 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I thrive on learning new technologies and automating tasks for enhanced productivity.
 
+# techstack
 
+## 🛠 &nbsp; Tech Stack
+
+<table>
+<tr>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="85">
+    </td>
+    <td align='center'>
+        <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="85">
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Ansible.gif" width="85">
+    </td>
+    <td align='center'>
+        <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="85">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Terraform.gif" width="85">
+    </td>
+    <td align='center'>
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="85">
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Tomcat.gif" width="85">
+    </td>
+    <td align='center'>
+        <img src="https://media.giphy.com/media/H6eR0TB69chSgcbn1V/giphy.gif" width="85">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="85">
+    </td>
+    <td align='center'>
+        <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="85">
+    </td>
+    <td align='center'>
+        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="85">
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Windows.gif" width="85">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://media.giphy.com/media/oy83DwS9gRTpC/giphy.gif" width="85">
+    </td>
+</tr>
+</table>
 
 
 
