@@ -106,6 +106,6 @@
 # Connect with me:
 
 [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/thallapelly-vinay/)
-[![Instagram](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/vinny_lancer/))
+[![Instagram](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/vinny_lancer/)
 [![Gmail](https://img.icons8.com/color/96/000000/gmail.png)](thallapellyvinay007@gmail.com)
 
