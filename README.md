@@ -70,10 +70,6 @@
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/tomcat.png"/>
     </td>
-    <!-- KUBERNETES -->
-    <td align='center'>
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
-    </td>
     <!-- UBUNTU -->
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/ubuntu.png" width="80">
@@ -84,14 +80,7 @@
     <td align='center'>
         <img src="https://img.icons8.com/ios-filled/50/000000/centos.png" width="80">
     </td>
-    <!-- AMAZON LINUX -->
-    <td align='center'>
-        <img src="https://img.icons8.com/color/96/000000/amazon-linux.png" width="80">
-    </td>
-    <!-- FEDORA -->
-    <td align='center'>
-        <img src="https://img.icons8.com/color/96/000000/fedora.png" width="80">
-    </td>
+    
 </tr>
 </table>
 
