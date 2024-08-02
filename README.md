@@ -96,11 +96,7 @@
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="80">
     </td>
-    <!-- NAGIOS -->
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Nagios_Logo.png" width="80">
-    </td>
-
+    
 </tr>
 </table>
 
