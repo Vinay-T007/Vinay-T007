@@ -68,7 +68,7 @@
     </td>
     <!-- APACHE -->
     <td align='center'>
-        <img src="https://img.shields.io/badge/Webserver-Apache%20Server-violet" width="80">
+        <img src="https://img.icons8.com/color/96/000000/apache-web-server.png" width="80">
     </td>
     <!-- UBUNTU -->
     <td align='center'>
