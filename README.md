@@ -93,8 +93,7 @@
        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=vscode" width="80">
-     <td align='center'>
-        <img src="https://skillicons.dev/icons?i=markdown" width="80">
+     
     </td>        
 </tr>
 </table>
