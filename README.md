@@ -11,7 +11,7 @@
  <img src="https://img.icons8.com/color/96/000000/terraform.png"/> <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/96/000000/tomcat.png"/> <img src="https://img.icons8.com/color/96/000000/nginx.png"/>
 <img src="https://img.icons8.com/color/96/000000/grafana.png"/>
 <img src="https://img.icons8.com/color/96/000000/sql.png"/> <img src="https://img.icons8.com/color/96/000000/linux.png"/> <img src="https://img.icons8.com/color/96/000000/windows-10.png"/>
-https://img.icons8.com/color/96/000000/red-hat.png"/>
+<img src="https://img.icons8.com/color/96/000000/red-hat.png"/>
 # Connect with me:
 
 [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/thallapelly-vinay/)
