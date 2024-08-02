@@ -107,6 +107,40 @@
 
 [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/thallapelly-vinay/)
 
+<br clear="both">
+<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆃🅸🅴</p>
+<p align="center">
+  <a href="https://vinaythallapelly.com.np/" target="_blank">
+    <img src="https://github.com/vinaythallapelly/vinaythallapelly/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://vinaythallapelly.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/vinaythallapelly/vinaythallapelly/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://vinaythallapelly.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/vinaythallapelly/vinaythallapelly/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://vinaythallapelly.com.np" target="_blank">
+    <img src="https://github.com/vinaythallapelly/vinaythallapelly/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://vinaythallapelly.com.np" target="_blank">
+    <img src="https://github.com/vinaythallapelly/vinaythallapelly/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://vinaythallapelly.com.np" target="_blank">
+    <img src="https://github.com/vinaythallapelly/vinaythallapelly/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://vinaythallapelly.com.np" target="_blank">
+    <img src="https://github.com/vinaythallapelly/vinaythallapelly/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://vinaythallapelly.com.np" target="_blank">
+    <img src="https://github.com/vinaythallapelly/vinaythallapelly/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+</p>
+
+
 
 
 
