@@ -23,8 +23,6 @@
 
 ## 🛠 &nbsp; Tech Stack
 
-## 🛠 &nbsp; Tech Stack
-
 <table>
 <tr>
     <!-- REDHAT -->
@@ -85,7 +83,6 @@
     </td>
 </tr>
 </table>
-
 
 # 🛠 Tech Stack
 
