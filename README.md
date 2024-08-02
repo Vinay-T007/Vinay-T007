@@ -9,39 +9,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## About Me
 - 👀 I am passionate about leveraging Red Hat Linux and AWS cloud technologies to create efficient and secure infrastructure solutions. 
 - 🌱 I hold a Red Hat certification and am eager to further my knowledge in cloud-native technologies.
@@ -59,4 +26,17 @@
 # Connect with me:
 
 [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/thallapelly-vinay/)
+
+
+### Github Stats
+  
+<p align="center">
+  <a href="https://github.com/Vinay-T007"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Vinay-T007&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=RHEL,Linux,AWS,GIT,Jenkins,Terraform&layout=compact&langs_count=8&theme=tokyonight"/>
+    </span></a>
+</p>
+  
+<br>
 
