@@ -21,8 +21,7 @@
 - ⚡ Fun fact: I thrive on learning new technologies and automating tasks for enhanced productivity.
 
 
-## 🛠 &nbsp; Tech Stack
-<table>
+## 🛠 &nbsp; Tech Stack<table>
 <tr>
     <!-- GIT (Animated) -->
     <td align='center'>
@@ -78,6 +77,23 @@
     <td align='center'>
         <img src="https://img.icons8.com/ios-filled/50/000000/centos.png" width="80">
     </td>
+</tr>
+<tr>
+    <!-- MYSQL -->
+    <td align='center'>
+        <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="80">
+    </td>
+    <!-- MONGODB -->
+    <td align='center'>
+        <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="80">
+    </td>
+    <!-- SQL SERVER -->
+    <td align='center'>
+        <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" width="80">
+    </td>
+</tr>
+</table>
+
    
      
 </table>
