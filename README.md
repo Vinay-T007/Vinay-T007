@@ -34,8 +34,6 @@
   <a href="https://github.com/Vinay-T007"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Vinay-T007&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-T007&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vinay-T007&hide=RHEL,Linux,AWS,GIT,Jenkins,Terraform&layout=compact&langs_count=8&theme=tokyonight"/>
-    </span></a>
 </p>
   
 
