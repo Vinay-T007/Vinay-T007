@@ -92,9 +92,9 @@
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" width="80">
     </td>
-    <!-- MARIADB -->
+    <!-- POSTGRESQL -->
     <td align='center'>
-        <img src="https://img.icons8.com/color/96/000000/mariadb.png" width="80">
+        <img src="https://img.icons8.com/color/96/000000/postgresql.png" width="80">
     </td>
 </tr>
 </table>
