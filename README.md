@@ -70,9 +70,7 @@
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=vim" width="80" >
     </td>  
-    <td align='center'>
-        <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" width="80">
-    </td>
+    
 </tr>
 <tr>
     <td align='center'>
