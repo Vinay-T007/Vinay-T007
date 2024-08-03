@@ -24,18 +24,15 @@
 ## 🛠 &nbsp; Tech Stack<table>
 <table>
 <tr>
-    <!-- GIT (Animated) -->
-    <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80">
-    </td>
-     <!-- REDHAT -->
+    <!-- REDHAT -->
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/red-hat.png"/>
-    </td>
     <!-- LINUX -->
     <td align='center'>
-        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="85">
-    </td>
+        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="85"
+   <!-- GIT (Animated) -->
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80">
     <!-- WINDOWS -->
     <td align='center'>
         <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="85">
