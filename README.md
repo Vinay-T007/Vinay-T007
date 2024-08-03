@@ -96,42 +96,6 @@
 </tr>
 </table>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pro Hacker Bio</title>
-    <style>
-        .typing-animation {
-            font-family: monospace;
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: 0.15em solid orange;
-            animation: typing 4s steps(40, end), blink-caret 0.75s step-end infinite;
-        }
-
-        @keyframes typing {
-            from { width: 0; }
-            to { width: 100%; }
-        }
-
-        @keyframes blink-caret {
-            from, to { border-color: transparent; }
-            50% { border-color: orange; }
-        }
-    </style>
-</head>
-<body>
-    <div class="typing-animation">
-        👨‍💻 Hacker extraordinaire with a knack for writing clean, efficient code at lightning speed. Passionate about cybersecurity, penetration testing, and cryptography. Always exploring new technologies and staying ahead of the curve.
-    </div>
-</body>
-</html>
-
-
-
-
 
 
 
