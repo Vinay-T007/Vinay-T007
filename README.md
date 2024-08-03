@@ -110,7 +110,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinay-T007&show_icons=true&locale=en&layout=compact" alt="Vinay-T007" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinay-T007&show_icons=true&locale=en" alt="Vinay-T007" /></p>
 
