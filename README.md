@@ -95,63 +95,6 @@
 </tr>
 </table>
 
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hacker Profile 4</title>
-    <style>
-        .typing-animation {
-            font-family: monospace;
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: 0.15em solid purple;
-            animation: typing 4s steps(40, end), blink-caret 0.75s step-end infinite;
-        }
-
-        @keyframes typing {
-            from { width: 0; }
-            to { width: 100%; }
-        }
-
-        @keyframes blink-caret {
-            from, to { border-color: transparent; }
-            50% { border-color: purple; }
-        }
-
-        .container {
-            text-align: center;
-        }
-
-        img {
-            width: 100%;
-            max-width: 800px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <a href="https://codegrills.in">
-            <img src="https://via.placeholder.com/800x300.png?text=Hacker+Image+4" alt="Hacker Image 4">
-        </a>
-        <div class="typing-animation">
-            💻 Security Analyst with expertise in malware analysis, reverse engineering, and incident response.
-        </div>
-    </div>
-</body>
-</html>
-
-
-
-
-
-
-
-
 ![OS](https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Windows-red)
 ![Cloud](https://img.shields.io/badge/Cloud%20Platform-AWS-blue)
 ![Scripting](https://img.shields.io/badge/Scripting-Shell-lemon)
