@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1000&pause=500&color=00E4A9&width=600&&repeat=true&height=70&lines=Hey!;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+VINAY+THALLAPELLY;LINUX+ADMIN)](https://git.io/typing-svg)
-[![Hacker](https://www.veracode.com/sites/default/files/2021-02/hackergames-hero-main.jpg)](https://codegrills.in)
 
 
 [![MasterHead](https://www.veracode.com/sites/default/files/2021-02/hackergames-hero-main.jpg)](https://codegrills.in)
@@ -99,7 +98,52 @@
 
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacker Profile 4</title>
+    <style>
+        .typing-animation {
+            font-family: monospace;
+            white-space: nowrap;
+            overflow: hidden;
+            border-right: 0.15em solid purple;
+            animation: typing 4s steps(40, end), blink-caret 0.75s step-end infinite;
+        }
 
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 100%; }
+        }
+
+        @keyframes blink-caret {
+            from, to { border-color: transparent; }
+            50% { border-color: purple; }
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        img {
+            width: 100%;
+            max-width: 800px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="https://codegrills.in">
+            <img src="https://via.placeholder.com/800x300.png?text=Hacker+Image+4" alt="Hacker Image 4">
+        </a>
+        <div class="typing-animation">
+            💻 Security Analyst with expertise in malware analysis, reverse engineering, and incident response.
+        </div>
+    </div>
+</body>
+</html>
 
 
 
