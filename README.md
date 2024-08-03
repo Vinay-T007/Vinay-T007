@@ -108,3 +108,19 @@
 [![Instagram](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/vinny_lancer/)
 [![Gmail](https://img.icons8.com/color/96/000000/gmail.png)](thallapellyvinay007@gmail.com)
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinay-T007&show_icons=true&locale=en&layout=compact" alt="Vinay-T007" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinay-T007&show_icons=true&locale=en" alt="Vinay-T007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-T007&" alt="Vinay-T007" /></p>
+
+[![Vinay thallapellys github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinay-T007&theme=react-dark)]https://github.com/Vinay-T007
+
+
+<!---
+Vinay-T007/Vinay-T007is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
