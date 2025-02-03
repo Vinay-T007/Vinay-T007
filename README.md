@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm vinay</h1>
-<h3 align="center">A passionate LINUX | CYBERSECURITY from India</h3>
+<h3 align="center">A passionate LINUX | DEVOPS ENGINEERfrom India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinay-T007&label=Profile%20views&color=0e75b6&style=flat" alt="Vinay-T007" /> </p>
 
@@ -15,7 +15,7 @@
 ## About Me
 - 👀 I am passionate about leveraging Red Hat Linux and AWS cloud technologies to create efficient and secure infrastructure solutions. 
 - 🌱 I hold a Red Hat certification and am eager to further my knowledge in cloud-native technologies.
-- 💞 I am seeking opportunities to contribute to projects involving Red Hat Linux, AWS cloud, and DevOps practices.
+- 💞 I am seeking opportunities to contribute to projects involving Red Hat Linux and DevOps practices.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I thrive on learning new technologies and automating tasks for enhanced productivity.
 
