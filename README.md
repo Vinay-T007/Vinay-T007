@@ -20,78 +20,112 @@
 - ⚡ Fun fact: I thrive on learning new technologies and automating tasks for enhanced productivity.
 
 
-## 🛠 &nbsp; Tech Stack<table>
+## 🛠 &nbsp; TECH STACK
+
+
 <table>
 <tr>
+    <td align='center'>
+        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="70" >
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="100" >
+    </td>
     <!-- REDHAT -->
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/red-hat.png"/>
-    <!-- LINUX -->
-    <td align='center'>
-        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="85"
-   <!-- GIT (Animated) -->
-    <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80">
-    <!-- WINDOWS -->
-    <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="85">
-    </td>
-</tr>
-<tr>
-    <!-- AWS -->
-    <td align='center'>
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80">
-    </td>
-    <!-- VIM -->
-    <td align='center'>
-        <img src="https://skillicons.dev/icons?i=vim" width="80">
-    </td>
-    <!-- VSCODE -->
-    <td align='center'>
-        <img src="https://skillicons.dev/icons?i=vscode" width="80">
-    </td>
-    <!-- ANSIBLE -->
-    <td align='center'>
-        <a href="https://softwarelife.github.io/devops/ansible/">
-            <img src="https://skillicons.dev/icons?i=ansible" width="80">
-        </a>
-    </td>
-</tr>
-<tr>
-    <!-- NGNIX -->
-    <td align='center'>
-        <img src="https://skillicons.dev/icons?i=nginx" width="80">
-    </td>
-    <!-- APACHE -->
-    <td align='center'>
-        <img src="https://images.sftcdn.net/images/t_app-icon-m/p/ddc05574-9b32-11e6-8828-00163ec9f5fa/3020973661/apache-http-server-logo.jpg" width="80" alt="Apache Web Server">
-    </td>
-    <!-- UBUNTU -->
-    <td align='center'>
-        <img src="https://img.icons8.com/color/96/000000/ubuntu.png" width="80">
     </td>
     <!-- CENTOS -->
     <td align='center'>
         <img src="https://img.icons8.com/ios-filled/50/000000/centos.png" width="80">
+    </td>
+    <!-- UBUNTU -->
+    <td align='center'>
+        <img src="https://img.icons8.com/color/96/000000/ubuntu.png" width="80">
     </td>
+    <!-- NGNIX -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=nginx" width="80">
+    </td>
+    <!-- TOMCAT -->
+    <td align='center'>
+        <img src="https://img.icons8.com/color/96/000000/tomcat.png"/>
+    </td>
+
 </tr>
 <tr>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Vagrant.gif" width="80" >
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/azure.gif" width="90">
+    </td>
+     <td align='center'>
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" >
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Google%20Cloud.gif" width="80">
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/08b2a31b78041811e266e1cf2d47e7b2020a5e4a/gifs/Prometheus.gif" width="80">
+    </td>
     <!-- MYSQL -->
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="80">
     </td>
-    <!-- MONGODB -->
+
+<tr>
     <td align='center'>
-        <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="80">
-    </td>
-    <!-- SQL SERVER -->
+  <a href="https://softwarelife.github.io/devops/terraform/">
+    <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="90">
+  </a>
+</td>
     <td align='center'>
-        <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" width="80">
+        <a href="https://softwarelife.github.io/devops/ansible/">
+        <img src="https://skillicons.dev/icons?i=ansible" width="80">
+        </a>   
     </td>
-    <!-- POSTGRESQL -->
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="80">
+        <img src="https://skillicons.dev/icons?i=bash" width="80">
     </td>
+     <td align='center'>
+        <img src="https://skillicons.dev/icons?i=powershell" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80" >
+    </td>
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=vim" width="80" >
+    </td>  
+    <td align='center'>
+        <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" width="80">
+    </td>
+</tr>
+<tr>
+    <!-- APACHE -->
+    <td align='center'>
+        <img src="https://images.sftcdn.net/images/t_app-icon-m/p/ddc05574-9b32-11e6-8828-00163ec9f5fa/3020973661/apache-http-server-logo.jpg" width="80" alt="Apache Web Server">
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=jenkins" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Azure%20Devops.gif" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="80">
+    </td>
+    <td align='center'>
+                <a href="https://softwarelife.github.io/devops/docker-setup/">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80">
+                </a>
+    </td>
+    <td align='center'>
+       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=vscode" width="80">
+           
 </tr>
 </table>
 
