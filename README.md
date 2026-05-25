@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--            ⚡ FUTURISTIC DEVOPS COMMAND CENTER ⚡         -->
+<!--        ⚡ FUTURISTIC DEVOPS COMMAND CENTER ⚡             -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -75,21 +75,22 @@ mission:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="90"/>
-
-<img src="https://skillicons.dev/icons?i=azure&theme=dark" width="90"/>
-
-<img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=aws" width="85"/>
+<img src="https://skillicons.dev/icons?i=azure" width="85"/>
+<img src="https://skillicons.dev/icons?i=gcp" width="85"/>
+<img src="https://skillicons.dev/icons?i=cloudflare" width="85"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud_Infrastructure-000000?style=for-the-badge&logo=amazonaws&logoColor=00FFC6"/>
+<img src="https://img.shields.io/badge/AWS-Cloud_Platform-000000?style=for-the-badge&logo=amazonaws&logoColor=00FFC6"/>
 
 <img src="https://img.shields.io/badge/Azure-Enterprise_Cloud-000000?style=for-the-badge&logo=microsoftazure&logoColor=00E1FF"/>
 
 <img src="https://img.shields.io/badge/GCP-Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=6E00FF"/>
+
+<img src="https://img.shields.io/badge/Cloudflare-CDN_&_Security-000000?style=for-the-badge&logo=cloudflare&logoColor=orange"/>
 
 </p>
 
@@ -99,15 +100,15 @@ mission:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="90"/>
+<img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="85"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="85"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="85"/>
 
-<img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=ubuntu" width="85"/>
 
-<img src="https://skillicons.dev/icons?i=windows&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=windows" width="85"/>
 
 </p>
 
@@ -121,7 +122,7 @@ mission:
 
 <img src="https://img.shields.io/badge/Ubuntu-Cloud_OS-000000?style=for-the-badge&logo=ubuntu&logoColor=orange"/>
 
-<img src="https://img.shields.io/badge/Windows-Administration-000000?style=for-the-badge&logo=windows&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Windows-Administration-000000?style=for-the-badge&logo=windows&logoColor=00E1FF"/>
 
 </p>
 
@@ -131,17 +132,17 @@ mission:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=jenkins" width="85"/>
 
-<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=githubactions" width="85"/>
 
-<img src="https://skillicons.dev/icons?i=azuredevops&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=gitlab" width="85"/>
 
-<img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=ansible" width="85"/>
 
-<img src="https://skillicons.dev/icons?i=ansible&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=terraform" width="85"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="85"/>
 
 </p>
 
@@ -150,6 +151,8 @@ mission:
 <img src="https://img.shields.io/badge/Jenkins-CI/CD-000000?style=for-the-badge&logo=jenkins&logoColor=00FFC6"/>
 
 <img src="https://img.shields.io/badge/GitHub_Actions-Automation-000000?style=for-the-badge&logo=githubactions&logoColor=00E1FF"/>
+
+<img src="https://img.shields.io/badge/GitLab-DevOps-000000?style=for-the-badge&logo=gitlab&logoColor=orange"/>
 
 <img src="https://img.shields.io/badge/Azure_DevOps-Pipelines-000000?style=for-the-badge&logo=azuredevops&logoColor=0078D7"/>
 
@@ -163,17 +166,17 @@ mission:
 
 ---
 
-# 🐳 CONTAINERS & ORCHESTRATION
+# ☸️ CONTAINERS & ORCHESTRATION
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="90"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="85"/>
 
-<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="90"/>
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="85"/>
 
-<img src="https://skillicons.dev/icons?i=helm&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=helm" width="85"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="90"/>
+<img src="https://skillicons.dev/icons?i=openshift" width="85"/>
 
 </p>
 
@@ -195,9 +198,11 @@ mission:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=grafana" width="85"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="90"/>
+<img src="https://skillicons.dev/icons?i=prometheus" width="85"/>
+
+<img src="https://skillicons.dev/icons?i=elasticsearch" width="85"/>
 
 </p>
 
@@ -207,6 +212,8 @@ mission:
 
 <img src="https://img.shields.io/badge/Prometheus-Monitoring-000000?style=for-the-badge&logo=prometheus&logoColor=orange"/>
 
+<img src="https://img.shields.io/badge/ElasticSearch-Logging-000000?style=for-the-badge&logo=elasticsearch&logoColor=00E1FF"/>
+
 </p>
 
 ---
@@ -215,11 +222,11 @@ mission:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=nginx" width="85"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="85"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="85"/>
 
 </p>
 
@@ -239,15 +246,17 @@ mission:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=bash&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=bash" width="85"/>
 
-<img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=powershell" width="85"/>
 
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=git" width="85"/>
 
-<img src="https://skillicons.dev/icons?i=vim&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=vim" width="85"/>
 
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="85"/>
+
+<img src="https://skillicons.dev/icons?i=python" width="85"/>
 
 </p>
 
@@ -263,6 +272,8 @@ mission:
 
 <img src="https://img.shields.io/badge/VS_Code-Code_Editor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00E1FF"/>
 
+<img src="https://img.shields.io/badge/Python-Automation-000000?style=for-the-badge&logo=python&logoColor=yellow"/>
+
 </p>
 
 ---
@@ -271,13 +282,85 @@ mission:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="85"/>
+
+<img src="https://skillicons.dev/icons?i=postgres" width="85"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="85"/>
+
+<img src="https://skillicons.dev/icons?i=redis" width="85"/>
 
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/MySQL-Database-000000?style=for-the-badge&logo=mysql&logoColor=00E1FF"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-Relational_DB-000000?style=for-the-badge&logo=postgresql&logoColor=blue"/>
+
+<img src="https://img.shields.io/badge/MongoDB-NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=green"/>
+
+<img src="https://img.shields.io/badge/Redis-Cache-000000?style=for-the-badge&logo=redis&logoColor=red"/>
+
+</p>
+
+---
+
+# 🔐 DEVSECOPS & SECURITY
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" width="85"/>
+
+<img src="https://skillicons.dev/icons?i=nginx" width="85"/>
+
+<img src="https://skillicons.dev/icons?i=cloudflare" width="85"/>
+
+<img src="https://skillicons.dev/icons?i=github" width="85"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DevSecOps-Security_Automation-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-Hardening-000000?style=for-the-badge&logo=linux&logoColor=00FFC6"/>
+
+<img src="https://img.shields.io/badge/Nginx-Security_Gateway-000000?style=for-the-badge&logo=nginx&logoColor=00E1FF"/>
+
+<img src="https://img.shields.io/badge/Cloudflare-DDoS_Protection-000000?style=for-the-badge&logo=cloudflare&logoColor=orange"/>
+
+</p>
+
+---
+
+# 🧠 MODERN DEVOPS TOOLS 2026
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=kafka" width="85"/>
+
+<img src="https://skillicons.dev/icons?i=rabbitmq" width="85"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="85"/>
+
+<img src="https://skillicons.dev/icons?i=react" width="85"/>
+
+<img src="https://skillicons.dev/icons?i=kubernetes" width="85"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kafka-Streaming-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RabbitMQ-Message_Broker-000000?style=for-the-badge&logo=rabbitmq&logoColor=orange"/>
+
+<img src="https://img.shields.io/badge/NodeJS-Backend_Runtime-000000?style=for-the-badge&logo=nodedotjs&logoColor=green"/>
+
+<img src="https://img.shields.io/badge/React-Frontend_UI-000000?style=for-the-badge&logo=react&logoColor=00E1FF"/>
+
+<img src="https://img.shields.io/badge/Platform_Engineering-IDP-000000?style=for-the-badge&logo=kubernetes&logoColor=6E00FF"/>
 
 </p>
 
@@ -358,9 +441,11 @@ style G fill:#000000,stroke:#00FFC6,color:#ffffff
 
 <img src="https://img.shields.io/badge/ArgoCD-GitOps-000000?style=for-the-badge&logo=argo&logoColor=00E1FF"/>
 
-<img src="https://img.shields.io/badge/Platform_Engineering-Cloud_Native-000000?style=for-the-badge&logo=kubernetes&logoColor=6E00FF"/>
+<img src="https://img.shields.io/badge/SRE-Reliability_Engineering-000000?style=for-the-badge&logo=googlecloud&logoColor=6E00FF"/>
 
 <img src="https://img.shields.io/badge/Cloud_Security-DevSecOps-000000?style=for-the-badge&logo=icloud&logoColor=00FFC6"/>
+
+<img src="https://img.shields.io/badge/CI/CD-Optimization-000000?style=for-the-badge&logo=githubactions&logoColor=orange"/>
 
 </p>
 
